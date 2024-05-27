@@ -4,13 +4,14 @@ This example using existing redis node plugins
 
 How to use:
 
-`````bash
+```bash
   npm i
 ```
-````bash
+
+```bash
   docker compose up -d
 ```
-````bash
+
+```bash
   npm start
 ```
-`````
